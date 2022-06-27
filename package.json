@@ -1,0 +1,22 @@
+{
+	"name": "pco-utils",
+	"version": "0.1.0",
+	"description": "",
+	"main": "src/index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "David Neal <david@reverentgeek.com> (https://reverentgeek.com/)",
+	"license": "MIT",
+	"dependencies": {
+		"axios": "^0.27.2",
+		"cli-progress": "^3.11.2",
+		"dotenv": "^16.0.1",
+		"fs-extra": "^10.1.0"
+	},
+	"devDependencies": {
+		"eslint": "^8.18.0",
+		"eslint-config-reverentgeek": "^3.2.1"
+	}
+}
