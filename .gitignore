@@ -3,3 +3,5 @@ node_modules
 
 song*.json
 *.tab
+.DS_Store
+data/
